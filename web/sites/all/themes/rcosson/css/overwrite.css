@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+* {
+	font-family: 'Open Sans', Serif;
+}
+
+.node-poll h2 a {
+	color: #3d4147;
+}
